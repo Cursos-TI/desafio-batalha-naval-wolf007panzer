@@ -27,6 +27,9 @@ void tabuleiro (int tabuleiro[10][10]){
 
 int main () {
 
+printf("Nivel novato\n");
+printf("Commit\n");
+
 //posição onde os navios estão representados pelo numero 3
 
 int navio[10][10] = {0};
