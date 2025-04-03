@@ -42,14 +42,6 @@ navio [1][9] = 3;
 navio [2][9] = 3;
 navio [3][9] = 3;
 
-navio [5][5] = 3;
-navio [6][5] = 3;
-navio [7][5] = 3;
-
-navio[8][2] = 3;
-navio[8][3] = 3;
-navio[8][4] = 3;
-
 tabuleiro(navio);
 
 return 0;
